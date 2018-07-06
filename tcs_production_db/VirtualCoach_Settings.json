@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "5af93fd70fd6614a1850bc88" }, "Member_Id" : "", "VCMLastactivitydatetime" : "", "VCMAvatarimageurl" : "", "VCMAvatarname" : "", "VCMIntervalsettings" : { "IsDaily" : "true", "Interval" : "2" }, "VCMAnswerpreferencequestionAnswers" : [ {  }, {  } ] }

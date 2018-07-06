@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "5ad47e5a56602f3b6c7f8065" }, "ActivityRequest" : "Good", "ActivityResponse" : "11/11/2017", "ActivityStatus" : "1", "ActivityType" : "", "ActivityUrl" : "http:url.com", "ClientAgent" : "Navadeep", "CreatedDate" : "16/04/2018", "IpAddress" : "Yes", "MemberId" : "564222222" }

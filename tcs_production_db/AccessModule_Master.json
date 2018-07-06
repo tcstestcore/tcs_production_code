@@ -1,0 +1,5 @@
+{ "_id" : { "$oid" : "5acb3e5fa4e676248031951d" }, "ModuleDescription" : "The Survey of India is India's central engineering agency in charge of mapping and surveying.", "ModuleName" : "survey", "ModuleStatus" : "active" }
+{ "_id" : { "$oid" : "5acb3eb4a4e676248031951e" }, "ModuleDescription" : "The administrative divisions of India are subnational administrative units of India; they compose a nested hierarchy of country subdivisions.", "ModuleName" : "Admin", "ModuleStatus" : "active" }
+{ "_id" : { "$oid" : "5ad47bde23ae52311cbe6345" }, "ModuleDescription" : "A module is one of the separate parts of a course taught at a college.", "ModuleName" : "eventlist", "ModuleStatus" : "inactive" }
+{ "_id" : { "$oid" : "5acf3a9123ae5207dc4f4e14" }, "ModuleDescription" : "A module is one of the separate parts of a course taught at a college.", "ModuleName" : "tcseventlist", "ModuleStatus" : "isactive" }
+{ "_id" : { "$oid" : "5acb3dfca4e676248031951c" }, "ModuleDescription" : "A module is one of the separate parts of a course taught at a college.", "ModuleName" : "event", "ModuleStatus" : "active" }
